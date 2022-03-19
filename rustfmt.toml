@@ -1,0 +1,5 @@
+hard_tabs = true
+fn_call_width = 40
+newline_style = 'Unix'
+fn_args_layout = 'Vertical'
+reorder_imports = true
